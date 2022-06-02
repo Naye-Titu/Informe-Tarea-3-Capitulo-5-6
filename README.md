@@ -38,8 +38,13 @@ NRC: 7318
 
 ![image](https://user-images.githubusercontent.com/105722861/171101579-b156638e-4174-4e2e-a7f5-47beea7d2377.png)
 
+![image](https://user-images.githubusercontent.com/105722861/171550165-0f35faaa-b392-45ca-b411-59abeb7d5c25.png)
 
+![image](https://user-images.githubusercontent.com/105722861/171563282-f4278100-f12b-4a51-91ad-8750c0ba2dfa.png)
 
+![image](https://user-images.githubusercontent.com/105722861/171559415-a33f41c1-a077-4354-aad8-9eb6889325e5.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171570517-1751d11c-fe40-427e-876a-04f2052a8097.png)
 
  
  3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
