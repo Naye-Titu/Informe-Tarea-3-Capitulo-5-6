@@ -30,6 +30,8 @@ NRC: 7318
  
  2. MARCO TEÓRICO
  
+ CAPITULO N°5
+ 
  ![image](https://user-images.githubusercontent.com/105722861/171088623-da85cdab-bcb1-4f2d-b12e-95753a194742.png)
  
  ![image](https://user-images.githubusercontent.com/105722861/171093118-e29e052d-968c-4913-9b09-1dc2188cd896.png)
@@ -40,13 +42,18 @@ NRC: 7318
 
 ![image](https://user-images.githubusercontent.com/105722861/171550165-0f35faaa-b392-45ca-b411-59abeb7d5c25.png)
 
-![image](https://user-images.githubusercontent.com/105722861/171563282-f4278100-f12b-4a51-91ad-8750c0ba2dfa.png)
+CAPITULO N°6
+
+![image](https://user-images.githubusercontent.com/105722861/171742936-ce0403e6-765e-47d2-b3b3-75d163f2bb36.png)
 
 ![image](https://user-images.githubusercontent.com/105722861/171559415-a33f41c1-a077-4354-aad8-9eb6889325e5.png)
 
 ![image](https://user-images.githubusercontent.com/105722861/171570517-1751d11c-fe40-427e-876a-04f2052a8097.png)
 
- 
+ ![image](https://user-images.githubusercontent.com/105722861/171736196-c882ddf5-e2a0-4dd8-ac3e-7adae021a449.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171742215-4ed404f4-1ddb-4de0-92de-f6a0d8e5644e.png)
+
  3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
  
  4.VIDEO
