@@ -178,5 +178,5 @@ CAPITULO N°6
  
  6. BIBLIOGRAFIA
  
-THOMAS, F. (2007). Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 2-57). México: Pearson Educación de México, S.A. de C.V.
+THOMAS, F. (2007). Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 117-225). México: Pearson Educación de México, S.A. de C.V.
 
