@@ -56,9 +56,111 @@ CAPITULO N°6
 
  3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
  
- 4.VIDEO
+ ![image](https://user-images.githubusercontent.com/105722861/171798548-6aebac5a-e5b9-428d-b6e0-b32498561d0a.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171798669-818492a3-24c0-49fc-9597-e64f31b0696b.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171799190-acb8cd76-8c1c-401b-9cc6-8dc29fec830a.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171799482-30ed350b-86df-45ee-b96e-14e0d083f7f9.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171799642-6b33e126-cd16-4d5b-a6e7-01a6efdddf3c.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171799867-845c4df6-cbee-4a6d-9f70-eefe7212cae3.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171800205-73876a48-971d-48db-bfb2-1803e1a19d99.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171800285-5f858b9d-d4d1-4ad7-bd8c-598dc66bf87c.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171800457-6684007d-27f0-4b24-9793-fb8fd559e982.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171800656-f863fc3d-c1c3-4757-9d37-a8214869c0ad.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171801172-1dc94966-007c-46d7-951e-449227841264.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171801289-ead4ba4e-de35-4b13-8fc1-0eabd3eff634.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171801401-743a50b8-1b87-4fff-9d6b-cae2724602df.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171801495-329fc87d-5912-4909-a132-6935a0721144.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171801592-7eb42e4b-2e8f-48c2-a623-437bb441674b.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171801870-93524f05-dbf1-4d52-abcb-8c9aad3a734b.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171801988-e22b936c-c4ff-4832-93ac-e04a6180ac67.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171802143-f131abf6-6aed-461d-bea8-b900658eee10.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171802332-d70d0b2c-2488-4f4f-8739-13a9ebfee08f.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171802540-33e0b03b-4b55-468c-987b-5a630f04f625.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171802706-13df0e9d-c1c1-4fc3-8c8c-5ead9497930a.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171802865-b59e17f7-a68f-4f0c-9d23-11e7b66fd593.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171803065-b90f2287-75c4-428f-ad22-6933a0ee8b57.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171803156-718fe2c8-909f-4b5b-bf2d-6a385a550f38.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171803300-ade0ebe2-9536-4e34-a635-614a94726134.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171803415-0b87b0f1-210d-41b0-b88f-c402f375cd0e.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171803555-9b256389-a37e-4d3c-9d39-3072c993a71f.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171803779-be8effea-9211-48d0-95ae-ab9fd3dfdf62.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171803880-0f9abcba-56d7-4126-bf5a-8038ce5d5a14.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171804025-7a52595c-3e1b-495f-8643-4b2d74ca49cd.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171804114-30e1fe12-f196-4974-b936-390265019b41.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171804369-f81abc8e-1577-4718-90a1-421532ac9dcc.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171804551-4d0c9c5e-b600-4420-b96c-756480a23b2c.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171804690-75edcaca-9577-4de2-9c5a-36a17ed8cdfd.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171804809-040ef3ea-b841-403b-a9f2-7be18fb074bc.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171804971-a2a94b2b-d90b-42ba-8140-35c24fde9963.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171805047-88207297-789b-407d-bf44-fda5aeb78504.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171805182-b19a2241-6c84-4236-8b37-d5e9e283026b.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171805343-75b2d92c-a862-4c90-88b4-48b05df8a09b.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171805439-7f627d04-8bbb-456d-bbdb-9cffd65d9003.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171805630-b9c95e9f-b63f-46c1-8b46-7c5ef5416c1e.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171805821-c15eb150-e6f6-4cc3-8fc2-16528bd52f41.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171806082-f588e821-072c-43ec-b6d4-98968984196e.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171806287-8940b208-8138-428b-9dd0-a176fdaba484.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171806418-1526f62e-0912-4dfb-9ced-024150c25233.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171806547-a2dba300-0653-42af-906c-095ae78ec90c.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171806653-b706447f-d149-48a8-ba8b-636ca17de76c.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171806750-ddd01b26-3858-4057-a2d1-a27385c2bd88.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171806903-bbef0491-840c-4b54-8573-3026eeeb7f73.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171807016-b5e8b8f8-7c3e-443a-a57e-58a235b9350b.png)
+
+![image](https://user-images.githubusercontent.com/105722861/171807256-75fa8278-e9ea-405d-9f4f-69f6787343f3.png)
+
+4.VIDEO
  
- 5.CONCLUSIONES 
+5.CONCLUSIONES 
  
 •Con el aprendizaje de estas unidades se puede hacer un correcto manejo de la Ley de Ohm.
 
@@ -76,3 +178,5 @@ CAPITULO N°6
  
  6. BIBLIOGRAFIA
  
+THOMAS, F. (2007). Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 2-57). México: Pearson Educación de México, S.A. de C.V.
+
